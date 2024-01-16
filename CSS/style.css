@@ -1,0 +1,17 @@
+body {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  letter-spacing: 2px;
+}
+
+.card {
+  height: 13rem;
+  content: normal;
+}
+
+h3 {
+  color: blueviolet;
+}
+
+span {
+  color: #654040;
+}
